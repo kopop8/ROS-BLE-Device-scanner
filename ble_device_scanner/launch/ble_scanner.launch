@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="ble_device_scanner" name="ble_scanner" type="ble_scanner.py"></node>
+</launch>
